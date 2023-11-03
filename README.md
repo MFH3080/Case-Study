@@ -25,16 +25,27 @@
 
 ## References
 > Brockman, G., Sutskever, I., & OpenAI. (2015, December 11). Introducing OpenAI. OpenAI; OpenAI. https://openai.com/blog/introducing-openai
+
 > Brown, P. (2016). All the technology inside your Google Home. Electronics 360; Globalspec. https://electronics360.globalspec.com/article/7718/all-the-technology-inside-your-google-home
+
 > CB Insights. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/compare/anthropic-vs-openai
+
 > Elad, B. (2023, September 13). OpenAI statistics by demographics, products, revenue and growth. Enterprise Apps Today; Enterprise Apps Today. https://www.enterpriseappstoday.com/stats/openai-statistics.html
+
 > Google Nest and Home device specifications. (2023). Support.google.com; Google. https://support.google.com/googlenest/answer/7072284?hl=en#zippy=%2Cgoogle-home
+
 > Inworld AI. (n.d.). CBinsights; CB Information Services. Retrieved October 31, 2023, from https://www.cbinsights.com/company/inworld-ai
+
 > OpenAI. (2018, April 9). OpenAI charter. OpenAI; OpenAI. https://openai.com/charter
+
 > OpenAI. (2023, March 14). GPT-4 research. OpenAI; OpenAI. https://openai.com/research/gpt-4
+
 > Pryon. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/company/pryon
+
 > Schroer, A., & Urwin, M. (2023, October 18). 61 artificial intelligence (AI) companies to know. Built In; Built In. https://builtin.com/artificial-intelligence/ai-companies-roundup
+
 > Sha, A. (2023, April 29). 18 Examples of AI You’re Using in Daily Life in 2023. Beebom; Beebom Media Private Limited. https://beebom.com/examples-of-artificial-intelligence/
+
 > Top OpenAI Alternatives, Competitors. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/company/openai/alternatives-competitors
 
 [^1]: Brockman, G., Sutskever, I., & OpenAI. (2015, December 11). Introducing OpenAI. OpenAI; OpenAI. https://openai.com/blog/introducing-openai 
