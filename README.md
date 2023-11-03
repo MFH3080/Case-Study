@@ -25,15 +25,15 @@
 
 ## References
 [^1]: Brockman, G., Sutskever, I., & OpenAI. (2015, December 11). Introducing OpenAI. OpenAI; OpenAI. https://openai.com/blog/introducing-openai 
-Brown, P. (2016). All the technology inside your Google Home. Electronics 360; Globalspec. https://electronics360.globalspec.com/article/7718/all-the-technology-inside-your-google-home
+> Brown, P. (2016). All the technology inside your Google Home. Electronics 360; Globalspec. https://electronics360.globalspec.com/article/7718/all-the-technology-inside-your-google-home
 [^3]: CB Insights. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/compare/anthropic-vs-openai
 [^4]: Elad, B. (2023, September 13). OpenAI statistics by demographics, products, revenue and growth. Enterprise Apps Today; Enterprise Apps Today. https://www.enterpriseappstoday.com/stats/openai-statistics.html
-Google Nest and Home device specifications. (2023). Support.google.com; Google. https://support.google.com/googlenest/answer/7072284?hl=en#zippy=%2Cgoogle-home
+> Google Nest and Home device specifications. (2023). Support.google.com; Google. https://support.google.com/googlenest/answer/7072284?hl=en#zippy=%2Cgoogle-home
 [^7]: Inworld AI. (n.d.). CBinsights; CB Information Services. Retrieved October 31, 2023, from https://www.cbinsights.com/company/inworld-ai
-OpenAI. (2018, April 9). OpenAI charter. OpenAI; OpenAI. https://openai.com/charter
+> OpenAI. (2018, April 9). OpenAI charter. OpenAI; OpenAI. https://openai.com/charter
 [^9]: OpenAI. (2023, March 14). GPT-4 research. OpenAI; OpenAI. https://openai.com/research/gpt-4
 [^10]: Pryon. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/company/pryon
-Schroer, A., & Urwin, M. (2023, October 18). 61 artificial intelligence (AI) companies to know. Built In; Built In. https://builtin.com/artificial-intelligence/ai-companies-roundup
+> Schroer, A., & Urwin, M. (2023, October 18). 61 artificial intelligence (AI) companies to know. Built In; Built In. https://builtin.com/artificial-intelligence/ai-companies-roundup
 [^12]: Sha, A. (2023, April 29). 18 Examples of AI You’re Using in Daily Life in 2023. Beebom; Beebom Media Private Limited. https://beebom.com/examples-of-artificial-intelligence/
-Top OpenAI Alternatives, Competitors. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/company/openai/alternatives-competitors
+> Top OpenAI Alternatives, Competitors. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/company/openai/alternatives-competitors
 [^14]: Q.ai - Powering a Personal Wealth Movement. (2023, October 5). Microsoft Confirms Its $10 Billion Investment Into ChatGPT, Changing How Microsoft Competes With Google, Apple And Other Tech Giants. Forbes. https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/?sh=583a1e8e3624
