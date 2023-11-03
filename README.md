@@ -2,7 +2,7 @@
 # OpenAI’s Role in Daily Life
 
 ## Overview and Origin
-	OpenAI is a nonprofit research company, founded on December 11, 2015, by "Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members." [^1] The company launched with the mission "to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return." [^2]. OpenAI’s initial funding came from Microsoft which “provided OpenAl Global LLC with a billion investment in 2019 and a $10 billion investment in 2023”[^3]
+> OpenAI is a nonprofit research company, founded on December 11, 2015, by "Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members." [^1] The company launched with the mission "to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return." [^2]. OpenAI’s initial funding came from Microsoft which “provided OpenAl Global LLC with a billion investment in 2019 and a $10 billion investment in 2023”[^3]
 
 ## Business Activities
 
