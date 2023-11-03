@@ -24,7 +24,7 @@
 > This product would utilize the technologies that OpenAI already uses for their chat-GPT language model. Additional technologies that would be required would be speech recognition as well as a microphone to listen with. For the assistant to respond it would need to be able to convert its text to speech and output it to a speaker. Additionally, to access any sources outside its memory it would need to be able to wirelessly connect to the internet and be able to collect sources related to the topic. Finally, any number of other technologies could better improve its helpfulness but are completely optional. An example of this would be the option to connect to other devices such as speakers or smart home devices.
 
 ## References
-[^2]: Brockman, G., Sutskever, I., & OpenAI. (2015, December 11). Introducing OpenAI. OpenAI; OpenAI. https://openai.com/blog/introducing-openai 
+Brockman, G., Sutskever, I., & OpenAI. (2015, December 11). Introducing OpenAI. OpenAI; OpenAI. https://openai.com/blog/introducing-openai [^2] 
     Brown, P. (2016). All the technology inside your Google Home. Electronics 360; Globalspec. https://electronics360.globalspec.com/article/7718/all-the-technology-inside-your-google-home
     CB Insights. (n.d.). CBinsights; CB Information Services, Inc. Retrieved October 31, 2023, from https://www.cbinsights.com/compare/anthropic-vs-openai
     Elad, B. (2023, September 13). OpenAI statistics by demographics, products, revenue and growth. Enterprise Apps Today; Enterprise Apps Today. https://www.enterpriseappstoday.com/stats/openai-statistics.html
